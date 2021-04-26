@@ -3,7 +3,7 @@
 
 <head> <!--"Голова" сайта. Все самые главные атрибуты располагаются в этом теге.-->
 	<link rel="icon" href="./images/favicon.ico" type="image"> <!--Элемент link наиболее часто используется для выполнения связывания с внешней таблицей стилей (CSS). Или для связывания со занчком сайта (favicon), как в данной строке.-->
-	<link rel="stylesheet" href=""> <!-- rel - cокр. "relation" ("отношение") - назначение ссылки link.-->
+	<link rel="stylesheet" href="./styles/index.css"> <!-- rel - cокр. "relation" ("отношение") - назначение ссылки link.-->
 	<meta charset="UTF-8"> <!--Кодировка символов-->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Объяснение: https://itchief.ru/lessons/html-and-css/meta-viewport-how-it-works -->
 	<meta name="keywords" content="Гагарин Юрий Алексеевич, Королёв Сергей Павлович, Циолковский Константин Эдуардович, первый полёт человека в космос, космонавтика, СССР, Восток-1, 12 апреля 1961, первый в космосе, ракета"> <!-- Ключевые слова для поисковых систем -->
@@ -16,7 +16,15 @@
 
 	<div class="page">
 		<header class="header">
-
+			<img class="logo logo_place_header" src="./images/header_logo.jpg" alt="Юрий Гагарин">
+			<h1 class="header__title">Русский
+				<p class="header-title header__title_indent">Космос</p>
+			</h1>
+			<p class="header__subtitle">
+				12 апреля 1961 г. лётчик-космонавт СССР Юрий Алексеевич Гагарин совершил перый в истории человечества полёт в Космос. О том, с чего началась и как развивалась космическая эра, кратко расскажет данный сайт. <a class="header__link" href="http://127.0.0.1:5500/index.html">Поехали! →</a>
+			</p>
+			<div class="header__earth-pic rotation"></div>
+			<img class="header__main-illustration" src="./images/header_main-foto.png" alt="Циолковский, Гагарин, Королёв">
 		</header>
 
 	</div>

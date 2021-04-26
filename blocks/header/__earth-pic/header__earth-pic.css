@@ -1,0 +1,9 @@
+.header__earth-pic {
+	background-image: url(../../../images/header_earth-pic.jpg);
+	position: absolute;
+  right: 64px;
+  top: 32px;
+  width: 685px;
+  height: 685px;
+	background-repeat: no-repeat;
+}

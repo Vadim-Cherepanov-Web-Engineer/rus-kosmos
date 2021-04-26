@@ -1,0 +1,19 @@
+.header__title {
+	position: relative;
+  line-height: 30px;
+  font-size: 110px;
+	font-weight: 600;
+	margin: 0;
+	top: 135px;
+  margin-left: 64px;
+	max-width: 730px;
+	width: 100%;
+	z-index: 1;
+	color: blue;
+	text-shadow: red 3px 1px 0, red -3px -1px 0,
+              red -3px 1px 0, red 3px -1px 0;
+}
+
+.header-title:last-child {
+	line-height: 0;
+}

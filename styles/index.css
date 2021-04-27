@@ -87,3 +87,9 @@
 
 @import url(../blocks/music/music.css);
 @import url(../blocks/music/__iframe/music__iframe.css);
+
+@import url(../blocks/cosmodrome/cosmodrome.css);
+@import url(../blocks/cosmodrome/__info/cosmodrome__info.css);
+@import url(../blocks/cosmodrome/__map/cosmodrome__map.css);
+@import url(../blocks/cosmodrome/__text/cosmodrome__text.css);
+@import url(../blocks/cosmodrome/__link/cosmodrome__link.css);

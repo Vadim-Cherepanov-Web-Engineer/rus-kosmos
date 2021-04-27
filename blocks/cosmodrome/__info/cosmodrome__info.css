@@ -1,0 +1,4 @@
+.cosmodrome__info {
+	display: flex;
+	flex-direction: reverse;
+}

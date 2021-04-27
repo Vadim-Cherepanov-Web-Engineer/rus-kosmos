@@ -1,0 +1,9 @@
+.cosmodrome {
+	margin: 0 auto;
+	padding-bottom: 80px;
+	padding-top: 80px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	background-color:cyan;
+}

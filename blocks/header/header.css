@@ -7,4 +7,6 @@
 	background-color: white;
 	position: relative;
 	overflow: hidden;
+	margin: 0;
+	padding: 0;
 }

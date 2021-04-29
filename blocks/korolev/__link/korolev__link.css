@@ -1,0 +1,19 @@
+.korolev__link {
+	position: absolute;
+	line-height: 52px;
+	font-size: 40px;
+	font-weight: bold;
+	color: #2f80ed;;
+	top: 50%;
+	right: 70px;
+	text-decoration: none;
+	opacity: 1;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+	transition-timing-function: ease-in;
+	max-width: 800px;
+}
+
+.korolev__link:hover {
+	opacity: 0.4;
+}

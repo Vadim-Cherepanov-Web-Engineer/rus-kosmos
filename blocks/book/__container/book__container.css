@@ -1,0 +1,9 @@
+.book__container {
+	width: 80%;
+	margin: 0 auto;
+	background-color:skyblue;
+	padding: 0;
+	padding-top: 80px;
+	padding-left: 10%;
+	padding-right: 10%;
+}

@@ -1,0 +1,10 @@
+.korolev {
+	width: 100%;
+	position: relative;
+	background-image: url(../../images/korolev.jpg);
+	background-size: 550px 600px;
+	background-position: left bottom;
+	background-color:cornsilk;
+	background-repeat: no-repeat;
+	min-height: 900px;
+}

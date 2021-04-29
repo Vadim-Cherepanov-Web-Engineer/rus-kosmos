@@ -1,0 +1,7 @@
+.book__picture {
+	width: 500px;
+	height: 700px;
+	margin-right: 60px;
+	object-fit: contain;
+	object-position: 0 0;
+}

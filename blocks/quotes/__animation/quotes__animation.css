@@ -1,0 +1,38 @@
+.quotes__animation {
+	width: 600px;
+  height: 500px;
+  position: absolute;
+  left: -60px;
+  top: -10px;
+  overflow: hidden;
+}
+
+.star {
+	position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.star_size_s {
+  width: 310px;
+  height: 310px;
+  margin-left: -155px;
+  margin-top: -155px;
+  animation: rotation 40s linear infinite;
+}
+
+.star_size_l {
+  width: 420px;
+  height: 420px;
+  margin-left: -210px;
+  margin-top: -210px;
+  animation: rotation 30s linear infinite;
+}
+
+.star_size_m {
+  width: 420px;
+  height: 420px;
+  margin-left: -210px;
+  margin-top: -210px;
+  animation: rotation 20s linear infinite;
+}

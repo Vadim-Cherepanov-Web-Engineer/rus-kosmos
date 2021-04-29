@@ -1,0 +1,17 @@
+.resources__link {
+	width: 300px;
+	height: 200px;
+	padding-right: 20px;
+	opacity: 1;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+	transition-timing-function: ease;
+}
+
+.resources__link:hover {
+	opacity: .2;
+}
+
+.resources__link:nth-last-child(4) {
+	padding: 0;
+}

@@ -1,0 +1,14 @@
+.logo_place_footer {
+	position: absolute;
+	width: 480px;
+	height: 205px;
+	border: 8px solid gold;
+	opacity: 1;
+	transition-property: opacity;
+	transition-duration: 0.5s;
+	transition-timing-function: ease;
+}
+
+.logo_place_footer:hover {
+	opacity: .3;
+}

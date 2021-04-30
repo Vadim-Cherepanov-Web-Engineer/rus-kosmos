@@ -1,0 +1,9 @@
+.footer__column_content_info {
+	line-height: 30px;
+	font-size: 25px;
+	font-weight: bold;
+	max-width: 350px;
+	margin: 0;
+	position: relative;
+	right: 300px;
+}
